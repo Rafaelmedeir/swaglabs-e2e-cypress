@@ -1,0 +1,14 @@
+[
+  {
+    "cenario": "Faltando Sobrenome",
+    "nome": "Maria",
+    "sobrenome": "",
+    "cep": "20040-020"
+  },
+  {
+    "cenario": "Faltando CEP",
+    "nome": "João",
+    "sobrenome": "da Silva",
+    "cep": ""
+  }
+]
