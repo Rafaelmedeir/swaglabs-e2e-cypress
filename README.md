@@ -50,3 +50,9 @@ npx cypress run
 ```bash
 npx cypress open
 ```
+
+## Autor
+**Rafael Medeiros**  
+*Tecnologia da Informação | Desenvolvimento de Software*
+
+[Contato por e-mail](mailto:rafael.medeir.rm@gmail.com)
